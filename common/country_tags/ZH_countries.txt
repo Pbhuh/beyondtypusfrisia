@@ -1,0 +1,10 @@
+#New tags for the low countries
+ZEE = "countries/Zeeland.txt"
+ARS = "countries/Artois.txt"
+LBG = "countries/Limburg.txt"
+WLL = "countries/Wallonie.txt"
+ZUT = "countries/Zutphen.txt" #unused in this mod
+FSK = "countries/Freikoln.txt" #unused in this mod
+TEC = "countries/Tecklenburg.txt" #unused in this mod
+DOO = "countries/Doornik.txt" #unused in this mod
+VBE = "countries/VlaamsBelgie.txt"
